@@ -1,6 +1,6 @@
 <img src="images/article_header.jpg" width="100%" />
 
-# Criando uma interação mágica para o Natal com prompt engineering no Chat GPT Plus
+# Criando uma interação mágica para o Natal com Prompt Engineering no Chat GPT Plus
 
 Este artigo tem o objetivo de demonstrar as boas práticas para engenharia de prompts através da construção de um GPT personalizado para interagir com as crianças baseado em Q&A.
 
@@ -259,3 +259,4 @@ Espero que tenham gostado e quando criarem seus GPTs personalizados, fiquem a vo
 - [Chat GPT](https://chatgpt.com/)
 - [JSON](https://en.wikipedia.org/wiki/JSON)
 - [Leonardo.Ai](https://app.leonardo.ai/ai-generations)
+- [Repositório deste artigo](https://github.com/marcelocorni/santa-talk)
