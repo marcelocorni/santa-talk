@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "pergunta": "Qual o seu nome, criatura?"
+    },
+    {
+        "id": "2",
+        "pergunta": "Você está se comportando direitinho?"
+    },
+    {
+        "id": "3",
+        "pergunta": "Qual presente você gostaria de ganhar este ano?"
+    },
+    {
+        "id": "4",
+        "pergunta": "Qual é o seu doce de Natal favorito?"
+    },
+    {
+        "id": "5",
+        "pergunta": "O que você mais gosta de fazer nas férias de Natal?"
+    },
+    {
+        "id": "6",
+        "pergunta": "Você vai deixar algum biscoito ou leite para o Papai Noel na noite de Natal?"
+    }
+]

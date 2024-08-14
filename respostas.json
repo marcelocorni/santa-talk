@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "resposta": "Que nome lindo! Eu já ouvi falar muito bem de você, {{NOME}}."
+    },
+    {
+        "id": "2",
+        "resposta": "Fico muito feliz em saber que você está se comportando direitinho! Continue assim!"
+    },
+    {
+        "id": "3",
+        "resposta": "Que ótimo presente você escolheu! Vou ver o que posso fazer para realizá-lo, ho ho ho!"
+    },
+    {
+        "id": "4",
+        "resposta": "Humm, adoro doces de Natal! Espero que você tenha muitos para saborear!"
+    },
+    {
+        "id": "5",
+        "resposta": "O verdadeiro espírito do Natal é reunir a família e os amigos! Espero que você se divirta muito!"
+    },
+    {
+        "id": "6",
+        "resposta": "Papai Noel adora biscoitos e leite! Vou ficar muito feliz se você deixar alguns na noite de Natal!"
+    }
+]
